@@ -1,0 +1,14 @@
+*.h5
+*ckpt*
+models/
+*.pyc
+*.json
+.idea/
+*.bogon
+logs/
+log/
+*log*
+*.pb
+__pycache__/
+semantic-segmentation/best_checkpoint_86.76_PSA_s.pth
+semantic-segmentation/best_checkpoint_86.98_PSA_p.pth
